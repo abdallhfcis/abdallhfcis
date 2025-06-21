@@ -15,7 +15,7 @@ Happy Coding! 😊
 <i>Contact Me:</i><br>
 
 <a href="www.linkedin.com/in/abdallah-abdelmoghny-255011289" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-[<img align="left" alt="Ramyy | email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:abdallhfcis97@gmail.com)
+[<img align="Center" alt="Ramyy | email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:abdallhfcis97@gmail.com)
 
 </div>
 <h3 align="left">Languages and Tools:</h3>
