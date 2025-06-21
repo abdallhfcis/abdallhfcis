@@ -1,8 +1,8 @@
 <h2> Hello there ,Abdallah here ! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ziadabdelnaby10&label=Profile%20views&color=0e75b6&style=flat" alt="ziadabdelnaby10" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdallhfcis&label=Profile%20views&color=0e75b6&style=flat" alt="abdallhfcis" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ziadabdelnaby10" alt="ziadabdelnaby10" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdallhfcis" alt="abdallhfcis" /></a> </p>
 
 <div align="center" width="50">
 
