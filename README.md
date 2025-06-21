@@ -1,4 +1,10 @@
-<h2> Hello there ,Abdallah here ! </h2>
+<h2> Hello there ,Abdallah here ! </h2> 👋
+
+
+## A passionate junior software engineer that loves contributing and creating open source projects.
+- 🤔 I’m looking for a position as software engineer(.NET).
+- 🎓 graduated from Computer and Information Sceience  at Ain Shams University (2017-2021).
+- 📌 Lives in Cairo, Egypt.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdallhfcis&label=Profile%20views&color=0e75b6&style=flat" alt="abdallhfcis" /> </p>
 
