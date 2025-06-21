@@ -4,11 +4,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdallhfcis" alt="abdallhfcis" /></a> </p>
 
-<div align="center" width="50">
-
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome Guys!" width="300"/>
-
-</div>
 
 You have finally discovered my Github profile. <br>
 Please feel free to clone projects and raise issues if you think something could be better.
