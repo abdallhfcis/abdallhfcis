@@ -2,7 +2,7 @@
 
 
 ###                A passionate junior software engineer that loves contributing and creating open source projects.
-- 🤔 I’m looking for a position as software engineer(.NET).
+- 🤔 I’m Working as Full Stack Devekoper !
 - 🎓 graduated from faculty Computer and Information Science at Ain Shams University (2017-2021).
 - 📌 Lives in Cairo, Egypt.
 
